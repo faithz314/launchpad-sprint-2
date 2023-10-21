@@ -1,0 +1,16 @@
+.body {
+	font-family: "Comic Sans MS";
+
+}
+.messi {
+    width: 200px;
+    height: auto;
+}
+.rocket {
+    width: 200px;
+    height: auto; /* Maintain the aspect ratio by setting height to auto */
+}
+.h1 {
+	color: red
+}
+
