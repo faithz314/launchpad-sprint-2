@@ -1,2 +1,2 @@
 # launchpad-sprint-2
-personal portolio!
+personal portolio! (technically sprint 1)
