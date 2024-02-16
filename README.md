@@ -1,2 +1,2 @@
 # launchpad-sprint-2
-personal portolio!
+personal portolio! a first attempt at html/css
